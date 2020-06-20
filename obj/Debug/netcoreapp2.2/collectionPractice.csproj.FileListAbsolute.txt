@@ -1,0 +1,11 @@
+/Users/user/coding dojo/csharpNew/collectionPractice/bin/Debug/netcoreapp2.2/collectionPractice.deps.json
+/Users/user/coding dojo/csharpNew/collectionPractice/bin/Debug/netcoreapp2.2/collectionPractice.runtimeconfig.json
+/Users/user/coding dojo/csharpNew/collectionPractice/bin/Debug/netcoreapp2.2/collectionPractice.runtimeconfig.dev.json
+/Users/user/coding dojo/csharpNew/collectionPractice/bin/Debug/netcoreapp2.2/collectionPractice.dll
+/Users/user/coding dojo/csharpNew/collectionPractice/bin/Debug/netcoreapp2.2/collectionPractice.pdb
+/Users/user/coding dojo/csharpNew/collectionPractice/obj/Debug/netcoreapp2.2/collectionPractice.csprojAssemblyReference.cache
+/Users/user/coding dojo/csharpNew/collectionPractice/obj/Debug/netcoreapp2.2/collectionPractice.csproj.CoreCompileInputs.cache
+/Users/user/coding dojo/csharpNew/collectionPractice/obj/Debug/netcoreapp2.2/collectionPractice.AssemblyInfoInputs.cache
+/Users/user/coding dojo/csharpNew/collectionPractice/obj/Debug/netcoreapp2.2/collectionPractice.AssemblyInfo.cs
+/Users/user/coding dojo/csharpNew/collectionPractice/obj/Debug/netcoreapp2.2/collectionPractice.dll
+/Users/user/coding dojo/csharpNew/collectionPractice/obj/Debug/netcoreapp2.2/collectionPractice.pdb
